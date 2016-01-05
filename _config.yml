@@ -2,6 +2,7 @@ name: whatthehell
 favicon: null
 layout_spectrum: 0.9767985895741731
 typography_spectrum: 0.9969670693390071
+title: main page
 cta:
   domain: null
   bucket: null
